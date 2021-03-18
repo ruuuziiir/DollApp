@@ -7,7 +7,7 @@
 
 import UIKit
 
-class dollTableViewController: UITableViewController {
+class DollTableViewController: UITableViewController {
     
     @IBOutlet weak var neckImage: UIImageView!
     @IBOutlet weak var bottomHairImage: UIImageView!

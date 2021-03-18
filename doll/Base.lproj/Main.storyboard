@@ -11,7 +11,7 @@
         <!--Doll Table View Controller-->
         <scene sceneID="91b-eP-RSf">
             <objects>
-                <tableViewController id="W2x-Jp-IFz" customClass="dollTableViewController" customModule="doll" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="W2x-Jp-IFz" customClass="DollTableViewController" customModule="doll" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="plain" separatorStyle="default" allowsMultipleSelection="YES" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="eJb-Bn-HiG">
                         <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
